@@ -1,2 +1,2 @@
-programm.java
- programm
+ru/tural/sandbox/programm.java
+ ru.tural.sandbox.programm
